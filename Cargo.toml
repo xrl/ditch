@@ -1,0 +1,18 @@
+[package]
+name = "ditch"
+description = "For when you need to ghost something, but programmatically"
+license = "MIT"
+homepage = "https://github.com/xrl/ditch"
+repository = "https://github.com/xrl/ditch"
+description = "For when you need to ghost something, but programmatically"
+license = "MIT"
+homepage = "https://github.com/xrl/ditch"
+repository = "https://github.com/xrl/ditch"
+description = "For when you need to ghost something, but programmatically"
+license = "MIT"
+homepage = "https://github.com/xrl/ditch"
+repository = "https://github.com/xrl/ditch"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
